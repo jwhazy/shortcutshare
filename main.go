@@ -25,7 +25,7 @@ type Config struct {
 }
 
 func main() {
-	fmt.Println("\nShortcutShare v0.0.0")
+	fmt.Println("\nShortcutShare v1.0.0")
 
 	app := &cli.App{
 		Flags: []cli.Flag{
